@@ -1,0 +1,6 @@
+Top   arrow : top
+Right arrow : right
+Left  arrow : left
+Bot   arrow : bot
+
+SpaceBar    : Pause
